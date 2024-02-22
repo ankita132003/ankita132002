@@ -44,10 +44,7 @@
 - Main Interview Module  : Conduct interviews efficiently with a user-friendly interface.
 
 - Future Enhancements : Continuous improvement with upcoming features such as advanced analytics and integration with applicant tracking systems.
-- 
-![InterviewBlitz Screenshot](interviews.png)
-*Screenshot of the InterviewBlitz platform.*
-
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
