@@ -49,7 +49,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href=="https://www.linkedin.com/in/ankita-yadav-a5056a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-yadav" height="30" width="40" /></a>
-<a href="https://leetcode.com/yadav_ankita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitayadav" height="30" width="40" /></a>
-</a>
+<!-- <a href="https://leetcode.com/yadav_ankita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitayadav" height="30" width="40" /></a> -->
+<!-- </a> -->
 </p>
 
