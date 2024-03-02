@@ -7,7 +7,6 @@
 
 ## Contact Information
 - **Email:** ankitayadav80048@gmail.com
-- **Phone:** 9198052127
 
 ## Education
 - **B.Tech in Computer Science**
